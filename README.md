@@ -8,3 +8,5 @@ The key tracker detects button presses and returns the state of the console. An 
 ![console](https://github.com/Novia-RDI-Seafaring/ship-console-py/blob/main/console.png?raw=true)
 
 The key mapping can be change by defining a new *key_map* dictionary, cf. *consoles/aboa_mare_console.json*.
+
+**Remark** The key tracker can only register a single button press at a time.
